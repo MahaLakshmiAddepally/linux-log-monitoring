@@ -1,0 +1,6 @@
+INFO  Application started successfully
+INFO  Connecting to database
+WARN  Response time is higher than expected
+ERROR Database connection timeout
+INFO  Retrying connection
+ERROR Failed to reconnect to database
